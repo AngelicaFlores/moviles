@@ -1,0 +1,4 @@
+mx/ipn/cic/geo/images/MainActivity.java
+ mx.ipn.cic.geo.images.MainActivity
+mx/ipn/cic/geo/images/BuildConfig.java
+ mx.ipn.cic.geo.images.BuildConfig
